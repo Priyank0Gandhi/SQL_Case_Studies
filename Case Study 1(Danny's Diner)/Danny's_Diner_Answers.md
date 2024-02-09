@@ -2,6 +2,7 @@
 
 1. What is the total amount each customer spent at the restaurant?
 - ![image](https://github.com/Priyank0Gandhi/SQL_Case_Studies/assets/96395339/7149212f-f080-4e49-93eb-3606d75e181c)
+- On average a customer spends #$62.
 
 2. How many days has each customer visited the restaurant?
 - ![image](https://github.com/Priyank0Gandhi/SQL_Case_Studies/assets/96395339/8ce8e785-2257-4f2d-b4e2-bbb098b97cc2)
